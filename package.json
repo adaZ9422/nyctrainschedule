@@ -1,0 +1,26 @@
+{
+  "name": "nyctrainschedule",
+  "version": "1.0.0",
+  "description": "AWS lambda package for getting nyc train schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaZ9422/nyctrainschedule.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "nyc",
+    "mta",
+    "train"
+  ],
+  "author": "Yihe Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adaZ9422/nyctrainschedule/issues"
+  },
+  "homepage": "https://github.com/adaZ9422/nyctrainschedule#readme"
+}
